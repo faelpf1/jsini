@@ -1,3 +1,11 @@
+/*COLOCAR NO INDEX.JS
+
+var modulo = require('./modules/Aula3.js'); 
+
+modulo.modulo();
+*/
+
+
 function modulo(){
   /* 
   function <nome da função> (parametros){

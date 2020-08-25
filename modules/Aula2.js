@@ -1,3 +1,11 @@
+/*COLOCAR NO INDEX.JS
+
+var modulo = require('./modules/Aula2.js'); 
+
+modulo.modulo();
+*/
+
+
 function modulo(){
   var numero1 = 1; //Tipo Number (1, 2.2, 4.50000)
   console.log(numero1);

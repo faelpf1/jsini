@@ -1,3 +1,12 @@
+/*COLOCAR NO INDEX.JS
+
+var modulo = require('./modules/Aula1.js'); 
+
+modulo.modulo();
+*/
+
+
+
 function modulo(){
   var x = 2;
   x = 6;
